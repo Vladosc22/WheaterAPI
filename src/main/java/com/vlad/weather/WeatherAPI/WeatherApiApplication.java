@@ -5,6 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication(scanBasePackages = {
         "com.vlad.weatherapi",
         "com.vlad.weather.WeatherAPI"
+
 })
 public class WeatherApiApplication {
     public static void main(String[] args) {
